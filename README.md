@@ -1,4 +1,4 @@
-# vuejs.org
+# pt.vuejs.org
 
 Esse site foi criado usando o [hexo](http://hexo.io/). O conteúdo é escrito no formato Markdown na pasta `src`. PRs são bem-vindas!
 
