@@ -1,12 +1,12 @@
 ---
-title: Getting Started
+title: Começando
 type: guide
 order: 1
 ---
 
-Let's start with a quick tour of Vue's data binding features. If you are more interested in a high-level overview first, check out this [blog post](http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/).
+Vamos começar com um pequeno tour das funcionalidades de data binding do Vue. Se você está interessado num resumo de "alto nível" antes, dê uma olhada nesse [post](http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/).
 
-The easiest way to try out Vue.js is using the [JSFiddle Hello World example](https://jsfiddle.net/yyx990803/okv0rgrk/). Feel free to open it in another tab and follow along as we go through some basic examples. If you prefer downloading / installing from a package manager, check out the [Installation](/guide/installation.html) page.
+A forma mais fácil de testar o Vue.js é usando o [Exemplo de Hello World no JSFIddle](https://jsfiddle.net/yyx990803/okv0rgrk/). Sinta-se livre para abri-lo em outra aba e segui-lo enquanto vemos alguns exemplos básicos. Se você prefere baixar ou instalar a partir de um gerenciador de pacotes, cheque a [página de instalação](/guide/installation.html).
 
 ### Hello World
 
